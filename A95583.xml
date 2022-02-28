@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short relation of a long iourney, made round or ovall by encompassing the principalitie of Wales, from London, through and by the counties of Middlesex and Buckingham, Berks, Oxonia, Warwick, Stafford, Chester, Flint, Denbigh, Anglesey, Carnarvan, Merioneth, Cardigan, Pembrooke, Caermarden, Glamorgan, Monmouth, Glocester, &amp;c. This painfull circuit began on Tuesday the 13 of July last, 1652. and was ended (or both ends brought together) on Tuesday the 7. of September following, being near 600. miles. Whereunto is annexed an epitome of the famous history of Wales. / Performed by the riding, going, crawling, running, and writing of John Taylor, dwelling at the sign of the Poets Head, in Phenix Alley, near the midle of Long Aker or Covent Garden.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95583</idno>
+            <idno type="STC">Wing T512</idno>
+            <idno type="STC">Thomason E1432_2</idno>
+            <idno type="STC">ESTC R209533</idno>
+            <idno type="EEBO-CITATION">99868409</idno>
+            <idno type="PROQUEST">99868409</idno>
+            <idno type="VID">169945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169945)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 183:E1432[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short relation of a long iourney, made round or ovall by encompassing the principalitie of Wales, from London, through and by the counties of Middlesex and Buckingham, Berks, Oxonia, Warwick, Stafford, Chester, Flint, Denbigh, Anglesey, Carnarvan, Merioneth, Cardigan, Pembrooke, Caermarden, Glamorgan, Monmouth, Glocester, &amp;c. This painfull circuit began on Tuesday the 13 of July last, 1652. and was ended (or both ends brought together) on Tuesday the 7. of September following, being near 600. miles. Whereunto is annexed an epitome of the famous history of Wales. / Performed by the riding, going, crawling, running, and writing of John Taylor, dwelling at the sign of the Poets Head, in Phenix Alley, near the midle of Long Aker or Covent Garden.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Place and year of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Marsh. 26 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales --  History --  17th century.</term>
+               <term>Wales --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169945:1" rendition="simple:additions"/>
+            <p>A SHORT RELATION OF A LONG IOURNEY, Made <hi>RO<g ref="char:V">Ʋ</g>ND</hi> or <hi>OVALL</hi> By encompaſſing the Principalitie of <hi>Wales,</hi> from <hi>London,</hi> through and by the Counties of <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> and <hi>Buckingham, Berks, Oxonia, Warwick, Stafford, Cheſter, Flint, Denbigh, Angleſey, Car<g ref="char:EOLhyphen"/>narvan, Merioneth, Cardigan, Pembrooke, Caer<g ref="char:EOLhyphen"/>marden, Glamorgan, Monmouth, Gloceſter, &amp;c.</hi>
+            </p>
+            <p>This painfull circuit began on Tueſday the 13 of <hi>July</hi> laſt, 1652. and was ended (or both ends brought together) on Tueſday the 7. of <hi>September</hi> following, being near 600. Miles.</p>
+            <p>Whereunto is annexed an Epitome of the Fa<g ref="char:EOLhyphen"/>mous Hiſtory of <hi>WALES.</hi>
+            </p>
+            <p>Performed by the Riding, Going, Crawling, Running, and Writing of <hi>John Taylor,</hi> dwel<g ref="char:EOLhyphen"/>ling at the Sign of the <hi>Poets Head,</hi> in <hi>Phenix All<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> near the midle of <hi>Long Aker</hi> or <hi>Covent Garden.</hi>
+            </p>
+         </div>
+         <div type="supplication">
+            <pb facs="tcp:169945:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:169945:2"/>
+            <p>To all my Honourable, Worſhipfull, and honeſt Friends, that have ſubſcribed to this follow<g ref="char:EOLhyphen"/>ing Bill; I humbly deſire them to read it a<g ref="char:EOLhyphen"/>gaine, and conſider the Contents of it, and content mee accordingly.</p>
+            <div type="poem">
+               <head>A Taylors Bill, with few or no <hi>Items:</hi> by or for <hi>John Taylor.</hi>
+               </head>
+               <l>NOw in the ſeventy fourth yeare of mine Age,</l>
+               <l>I take an <hi>Engliſh</hi> and <hi>Welſh</hi> Pilgrimage:</l>
+               <l>From <hi>London</hi> firſt I bend my courſe to <hi>Cheſter,</hi>
+               </l>
+               <l>And humbly I to all men am Requeſter;</l>
+               <l>That when I have paſt over Hills and Dales,</l>
+               <l>And compaſt with my Travels famous <hi>Wales,</hi>
+               </l>
+               <l>That when to you that I a Book do give,</l>
+               <l>Relating how I did ſubſiſt and live,</l>
+               <l>With all my Paſſages both here and there,</l>
+               <l>And of my Entertainment every where.</l>
+               <l>Write but your Names and Dwellings in this Bill,</l>
+               <l>I'le finde you, for the Book give what you will.</l>
+               <l>Twelve Voyages and Journies I have paſt,</l>
+               <l>And now my Age ſayes this may be my laſt.</l>
+               <l>My Travels Story ſhall moſt pleaſant be</l>
+               <l>To you that read, though painfull unto me.</l>
+            </div>
+            <div type="commentary">
+               <p>IN this Bill I did promiſe to give to my friends (Subſcribers) a true Relation of my Journey,
+<pb n="4" facs="tcp:169945:3"/>and Entertainment, (which I have done) and I do give to them more then I promiſed, which is a briefe Chronicle of <hi>Wales,</hi> (which I did not mention in my Bill) I know there are foure or five ſorts of Adventurers with me in this weari<g ref="char:EOLhyphen"/>ſome Journey, ſome of them have payd me al<g ref="char:EOLhyphen"/>ready (before I went) and their paine is paſt: If all the reſt do pay me (being near 3000) I am deceived; If none doe pay me I am miſerably couſened: For thoſe that have payd, or can and will pay, I thanke them; for ſuch as would if they could, or will when they can, I wiſh them ability to performe their wills for their owne ſakes, and mine both: But for thoſe that are a<g ref="char:EOLhyphen"/>ble to reward me and will not, I will not curſe them, though I feare they are almoſt paſt pray<g ref="char:EOLhyphen"/>ing for.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <div type="poem">
+               <pb n="5" facs="tcp:169945:3"/>
+               <head>A Short Relation of a Long Iourny, <hi>&amp;c.</hi>
+               </head>
+               <l>A Traveller that loves to ſee ſtrange Lands,</l>
+               <l>May be a man or not a man of 's hands:</l>
+               <l>But yet 'tis very requiſite and meet,</l>
+               <l>He ſhould be furniſh'd with good brains and feet;</l>
+               <l>For he that wants legs, feet, and brains, and wit,</l>
+               <l>To be a Traveller is moſt unfit:</l>
+               <l>And ſuch am I by Age of ſtrength bereft,</l>
+               <l>With one right leg, and one lame left leg left.</l>
+               <l>Beggers on their backs their brats do reare;</l>
+               <l>But I my iſſue in my leg do beare:</l>
+               <l>I dreſſe it often and impatiently</l>
+               <l>It lies and cries not, though it make me cry;</l>
+               <l>Yet I dare challenge Scottiſh <hi>Jock</hi> or <hi>Jackey,</hi>
+               </l>
+               <l>Or any light-heel'd nimble footed Lackey,</l>
+               <l>To travell ſuch a Jaunt as I have done,</l>
+               <l>With th' right leg going, and the left leg run:</l>
+               <l>Or if I pleaſe, the caſe I'le alter ſo,</l>
+               <l>To make the worſt leg run, the beſt to goe.</l>
+               <l>And ſure my heart was ſtout, men may ſuppoſe,</l>
+               <l>To venture Travell with ſuch legs as thoſe.</l>
+               <l>But there be ſome few that do underſtand,</l>
+               <l>'Tis merry walking with a horſe in hand.</l>
+               <pb n="6" facs="tcp:169945:4"/>
+               <l>Such was my Lot, I had a ſtately Courſer,</l>
+               <l>None courſer quality'd, and for a worſer,</l>
+               <l>There's neither <hi>Halifax,</hi> or <hi>Hull,</hi> nor <hi>Hell,</hi>
+               </l>
+               <l>That for good parts my horſe can parallel;</l>
+               <l>He was a beaſt, had heated been and cheated,</l>
+               <l>Too much hard over rid and under meated,</l>
+               <l>That he as gaunt as any Greyhound was,</l>
+               <l>And for a Horſes Skelliton might paſſe:</l>
+               <l>You might have told his ribs, he was ſo thin,</l>
+               <l>And ſeen his heart and guts, but for his skin;</l>
+               <l>He was not purſie foggy, cloy'd with greace,</l>
+               <l>And like his Rider lov'd reſt, eaſe, and peace:</l>
+               <l>
+                  <hi>Dun</hi> was, and is the Dumb beaſt, and was Done,</l>
+               <l>E're I begun, or he with me begun.</l>
+               <l>He had a black Liſt, from the Mane to Taile,</l>
+               <l>Which is a colour that doth ſeldome faile:</l>
+               <l>To change of paces he had been inur'd,</l>
+               <l>But yet not one t'endure, or be endur'd;</l>
+               <l>His Trot would fling a Dagger out ot'h ſheath,</l>
+               <l>Or jolt a man to death, or out of breath.</l>
+               <l>His Ambling was inviſible to me,</l>
+               <l>From ſuch ſmooth eaſie garbs his feet were free:</l>
+               <l>His common Pace in Sun-ſhine or in ſhowre,</l>
+               <l>Was (as he pleas'd) about two mile an houre.</l>
+               <l>I never yet could put him in a ſweat,</l>
+               <l>For he was never free, but at his meat.</l>
+               <l>Thus <hi>John</hi> upon <hi>Dun's</hi> back, were both <hi>Dun John,</hi>
+               </l>
+               <l>And thus the tedious way we wandred on.</l>
+               <l>Now to proceed in order duly, truly,</l>
+               <l>I <hi>London</hi> left the thirteenth day of <hi>July:</hi>
+               </l>
+               <pb n="7" facs="tcp:169945:4"/>
+               <l>The Wayes as faire as man could well deſire,</l>
+               <l>'Cauſe I had none to <hi>draw Dun out o'th mire:</hi>
+               </l>
+               <l>I fifteen miles (to <hi>Riſlip</hi>) that day went,</l>
+               <l>Baited at <hi>Edgworth,</hi> to give <hi>Dun</hi> content;</l>
+               <l>There my acquaintance, of good fame and worth,</l>
+               <l>Did welcome me: the next day I ſet forth,</l>
+               <l>With Boots, <hi>Sans</hi> Spurs, with Whip, and Switch of Burch,</l>
+               <l>I got on, twenty miles to <hi>Stoken</hi> Church:</l>
+               <l>The fifteenth day, S. <hi>Swithin,</hi> I and <hi>Dun,</hi>
+               </l>
+               <l>Did ſhuffle ſixteen miles to <hi>Abington;</hi>
+               </l>
+               <l>There till the Tueſday following I abode,</l>
+               <l>From thence I ſixteen miles to great <hi>Tue</hi> rode,</l>
+               <l>There at the <hi>Swan</hi> mine Hoſt was free and kind,</l>
+               <l>He had but one eye, tother ſide was blinde;</l>
+               <l>But ſurely he a right Good-fellow was,</l>
+               <l>And there one night my <hi>Dun</hi> did eat good graſs.</l>
+               <l>On <hi>July's</hi> twenty one from <hi>Tue</hi> I went,</l>
+               <l>And unto <hi>Warwick</hi> ſtrait my courſe I bent,</l>
+               <l>There did I find another ſigne o'th <hi>Swan,</hi>
+               </l>
+               <l>Mine Hoſteſſe kind, mine Hoſt a Gentile man,</l>
+               <l>And for your love to me, good Maſter <hi>Venner,</hi>
+               </l>
+               <l>With humble thanks I am your praiſes Penner.</l>
+               <l>My gratitude to Maſter <hi>Jacob Harmer,</hi>
+               </l>
+               <l>His Drapers ſhop could never make me warmer,</l>
+               <l>Then high and mighty <hi>Warwick's</hi> drink did there,</l>
+               <l>It made my brains to Caper and careere,</l>
+               <l>It was of ſuch invincible ſtrong force,</l>
+               <l>To knock me (in five miles) twice from my Horſe:</l>
+               <l>And ſure I think the Drink was certainly</l>
+               <l>Infuſed with the conqu'ring ghoſt of <hi>Guy.</hi>
+               </l>
+               <pb n="8" facs="tcp:169945:5"/>
+               <l>On <hi>July's</hi> two and twentieth day I came</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto an ancient houſe call'd <hi>Hunningham,</hi>
+               </l>
+               <l>There were two Ladies of good Worth and fame,</l>
+               <l>Whom for ſome reaſons I forbeare to name:</l>
+               <l>Their Son and Grandſon <hi>(John)</hi> I'le not forget,</l>
+               <l>He's nobly minded as a Baronet;</l>
+               <l>Foure dayes they kept me with exceeding cheere,</l>
+               <l>And gave me ſilver becauſe Travels deare.</l>
+               <l>From thence my Journey <hi>5</hi> miles I purſue,</l>
+               <l>To <hi>Coventry,</hi> moſt ſamous for true blew;</l>
+               <l>There the faire Croſſe of ancient high Renown</l>
+               <l>Stands firme, though other Croſſes all are down.</l>
+               <l>'Tis a dry City, and dry let it be,</l>
+               <l>'Twas not made dryer one ſmall drop for me:</l>
+               <l>Like a Camelion there I brake my faſt,</l>
+               <l>And thence I twenty miles to <hi>Lichfield</hi> paſt;</l>
+               <l>There at the <hi>George</hi> I took my lodging up,</l>
+               <l>I well was lodg'd, and well did ſup and cup,</l>
+               <l>When there by chance, I caſt my wandring eyon</l>
+               <l>The ruin'd Church, with griefe I thought on <hi>Sion:</hi>
+               </l>
+               <l>I ſigh'd to ſee that ſad confuſion,</l>
+               <l>Like th' <hi>Hebrews</hi> by the Brook of <hi>Babylon.</hi>
+               </l>
+               <l>On <hi>July's</hi> twenty ſeventh I rode alone</l>
+               <l>Full ſixteen miles unto a Town call'd <hi>Stone.</hi>
+               </l>
+               <l>Next day to <hi>Nantwich</hi> ſixteen long miles more,</l>
+               <l>From thence to <hi>Cheſter</hi> near the <hi>Cambrian</hi> ſhore:</l>
+               <l>There was my welcome in ſuch noble faſhion,</l>
+               <l>Of which in Proſe I'le make ſome briefe Relation.</l>
+            </div>
+            <div type="narrative">
+               <pb n="9" facs="tcp:169945:5"/>
+               <p>MY Lodging at <hi>Cheſter</hi> was in the Watergate ſtreet, at the Sign of the Feathers, I lay on a Feather-bed, and in the ſame houſe I met with two Brothers of mine acquaintance thirty years, they brought me to the Chamber of a Reverend <hi>Italian</hi> Phyſition, named <hi>Vincent Lancelles</hi> he was more then 80 yeares of Age, yet of a very able body, and vigorous conſtitution: The Yong mens Names were <hi>Thomas Morrine</hi> and <hi>Francis Morrine,</hi> the people were pleaſed (out of their Ignorance, or in ſmall Wit) to call the old Gen<g ref="char:EOLhyphen"/>tleman a Mountebank; but I am ſure he was deſervedly well reputed and reported of, for ma<g ref="char:EOLhyphen"/>ny Malladies and Diſeaſes which hee cured, whereof divers were judged incurable: He help<g ref="char:EOLhyphen"/>ed ſuch as were grieved for three ſeverall conſi<g ref="char:EOLhyphen"/>derations.</p>
+               <p>Firſt, Hee cured the Rich, for as much as hee could get.</p>
+               <p>Secondly, Hee healed the Meaner ſort for what they could ſpare, or were willing to part withall.</p>
+               <p>Thirdly, Hee cured the Poor for Gods ſake, and gave them mony and other reliefe, as I my ſelfe (with thankfull experience) muſt ever ac<g ref="char:EOLhyphen"/>knowledge: For he looked upon my lame leg, and applyed ſuch Medicine, as did not only eaſe me, but I am in hope will cure me, the griefe be<g ref="char:EOLhyphen"/>ing nothing but a Blaſt of Lightning and Thun<g ref="char:EOLhyphen"/>der, or Planet ſtroke, which I received nine years <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt at <hi>Oxford.</hi>
+               </p>
+               <pb n="10" facs="tcp:169945:6"/>
+               <p>For a further courteſie, when I was taking my leave of <hi>Cheſter,</hi> I demanded what I had to pay for Lodging, Dyet, and Horſe-meat, mine Hoſt ſayd, that all was fully payd and ſatisfied by the Good old Phyſition. My humble thanks remembred to Captain <hi>Vincent Corbet,</hi> but more eſpecially to Captain <hi>John Whitworth</hi> at <hi>Cheſter.</hi>
+               </p>
+               <p>On Fryday the 30. of <hi>July,</hi> I rode (and footed it) ten Miles to <hi>Flint</hi> (which is the Shire Town of Flint-ſhire) and ſurely War hath made it mi<g ref="char:EOLhyphen"/>ſerable, the ſometimes famous Caſtle there, in which <hi>Richard</hi> the Second of that Name, King of <hi>England</hi> was ſurpriſed by <hi>Henry</hi> of <hi>Bullinbrook,</hi> is now almoſt buried in it's own Ruins, and the Town is ſo ſpoiled, that it may truely be ſaid of it, that they never had any Market (in the me<g ref="char:EOLhyphen"/>mory of man) they have no Sadler, Taylor, Weaver, Brewer, Baker, Botcher, or Button<g ref="char:EOLhyphen"/>maker; they have not ſo much as a ſigne of an Ale-houſe, ſo that I was doubtfull of a Lodging, but (by good hap) I hapned into the houſe of one Mr. <hi>Edward Griffith,</hi> where I had good meat and lodging for me and my dumb <hi>Dun</hi> Beaſt, for very reaſonable conſideration, and this (me thinks) is a pitifull diſcription of a Shire Town.</p>
+               <p>Saturday, the laſt of <hi>July,</hi> I left <hi>Flint,</hi> and went three miles to <hi>Holy-well,</hi> of which place I muſt ſpeak ſomewhat materially: About the length of a furlong, down a very ſteep Hill, is a Well (full of wonder and admiration) it comes
+<pb n="11" facs="tcp:169945:6"/>from a Spring not far from <hi>Rudland</hi> Caſtle; it is and hath been many hundred yeares knowne by the name of <hi>Holy-Well,</hi> but it is more common<g ref="char:EOLhyphen"/>ly and of moſt Antiquity called Saint <hi>Winifrids</hi> Well, in memory of the pious and chaſte Virgin <hi>Winifrid,</hi> who was there beheaded for refuſing to yield her Chaſtity to the furious luſt of a Pagan Prince; in that very place where her bloud was ſhed, this Spring ſprang up; from it doth iſſue ſo forceible a ſtream, that within a hundred yards of it, it drives certain Mils, and ſome do ſay that nine Corn Mils and Fulling Mils are driven with the ſtream of that Spring: It hath a fair Chap<g ref="char:EOLhyphen"/>pell erected over it called Saint <hi>Winifrids</hi> Chap<g ref="char:EOLhyphen"/>pell, which is now much defaced by the injury of theſe late Wars: The well is compaſſed a<g ref="char:EOLhyphen"/>bout with a fine Wall of Free ſtone, the Wall hath eight Angles or Corners, and at every An<g ref="char:EOLhyphen"/>gle is a fair Stone Piller, whereon the Weſt end of the Chappell is ſupported. In two ſeverall places of the Wall, there are neat ſtone ſtaires to go into the water that comes from the Well, for it is to be noted that the Well it ſelfe doth continually work and bubble with extream vio<g ref="char:EOLhyphen"/>lence, like a boiling Cauldron or Furnace, and within the Wall, or into the Well very few do enter: The Water is Chriſtalline, ſweet, and medicinable, it is frequented daily by many peo<g ref="char:EOLhyphen"/>ple of Rich and Poore, of all Diſcaſes, amongſt which great ſtore of folkes are cured, divers are
+<pb n="12" facs="tcp:169945:7"/>caſed, but none made the worſe. The Hill deſ<g ref="char:EOLhyphen"/>cending is plentifully furniſhed (on both ſides of the way) with Beggers of all ages, ſexes, condi<g ref="char:EOLhyphen"/>tions, ſorts and ſizes, many of them are impo<g ref="char:EOLhyphen"/>tent, but all are impudent, and richly embrode<g ref="char:EOLhyphen"/>red all over with ſuch Hexameter poudred <hi>Er<g ref="char:EOLhyphen"/>mins</hi> (or Vermin) as are called Lice in <hi>England.</hi>
+               </p>
+               <p>Monday, the ſecond of <hi>Auguſt,</hi> when the Day begun, I mounted my <hi>Dun,</hi> having hired a little Boy (to direct me in the way) that could ſpeak no Engliſh, and for lack of an Interpreter, we travelled ſpeachleſs eight miles, to <hi>Rudland,</hi> where is an old ruined winde and war-ſhaken Caſtle; from that Town, after my Horſe, and the Boy, and my ſelfe had dined with Hay, Oats, and <hi>Barraw Cauſs,</hi> we hors't and footed it twelve miles further, to a fine ſtrong walled Towne, named <hi>Aberconwy;</hi> there I lodged at the houſe of one Mr. <hi>Spencer</hi> (an Engliſh man) he is Poſt-Maſter there, and there my entertainment was good, and my Reckoning reaſonable: There is a good defenſive Caſtle which I would have ſeen, but becauſe there was a Garriſon, I was loath to give occaſion of offence, or be much inquiſi<g ref="char:EOLhyphen"/>tive.</p>
+               <q>
+                  <l>The next day when the Clock ſtrook two and fowre,</l>
+                  <l>I mounted <hi>Dun, Dun</hi> mounted <hi>Penmen Mawre;</hi>
+                  </l>
+                  <l>And if I do not take my aime amiſſe,</l>
+                  <l>That lofty Mountain ſeems the Skies to kiſſe:</l>
+                  <pb n="13" facs="tcp:169945:7"/>
+                  <l>But there are other Hils accounted higher,</l>
+                  <l>Whoſe lofty tops I had no mind t' aſpire:</l>
+                  <l>As <hi>Snowdon,</hi> and the tall <hi>Plinnillimon,</hi>
+                  </l>
+                  <l>Which I no ſtomack had to tread upon.</l>
+                  <l>
+                     <hi>Merioneth</hi> Mountains, and Shire <hi>Cardigan</hi>
+                  </l>
+                  <l>To travell over, will tire horſe and man:</l>
+                  <l>I, to <hi>Bewmaris</hi> came that day and din'd,</l>
+                  <l>Where I the good Lord <hi>Buckley,</hi> thought to find.</l>
+                  <l>But he to ſpeak with me had no intent,</l>
+                  <l>Dry I came into's houſe, dry out I went.</l>
+                  <l>I left <hi>Bewmaris,</hi> and to <hi>Bangor</hi> trac'd it,</l>
+                  <l>Ther's a brave Church, but Time and War defac'd it:</l>
+                  <l>For Love and Mony I was welcome thither,</l>
+                  <l>'Tis merry meeting when they come together.</l>
+               </q>
+               <p>Thus having travelled from <hi>Aberconwy</hi> to <hi>Beu<g ref="char:EOLhyphen"/>morris</hi> and to <hi>Bangor,</hi> Tueſday 3. <hi>Auguſt,</hi> which in all they are pleaſed to call 14 miles, but moſt of the Welſh miles are large <hi>London</hi> meaſure, not any one of them but hath a hand bredth or ſmall cantle at each end, by which means, what they want in broadneſs, they have it in length; beſides the aſcending and deſcending almoſt im<g ref="char:EOLhyphen"/>paſſable mountains, and Break-neck ſtony ways, doth make ſuch Travellers as my ſelfe, judge that they were no Miſers in meaſuring their miles; beſides, the land is courſer then it is in moſt parts about <hi>London,</hi> which makes them to afford the larger meaſure: for courſe Broad<g ref="char:EOLhyphen"/>cloath is not at the rate of Velvet or Satten.</p>
+               <pb n="14" facs="tcp:169945:8"/>
+               <p>Wedneſday the 4. of <hi>Auguſt</hi> I rode 8 miles from <hi>Bangor</hi> to <hi>Carnarvan,</hi> where I thought to have ſeen a Town and a Caſtle, or a Caſtle and a Town; but I ſaw both to be one, and one to be both; for indeed a man can hardly divide them in judgement or apprehenſion; and I have ſeen many gallant Fabricks and Fortifications, but for compactneſs and compleatneſs of <hi>Caer<g ref="char:EOLhyphen"/>narvon,</hi> I never yet ſaw a parallell. And it is by Art and Nature ſo ſited and ſeated, that it ſtands impregnable, &amp; if it be well mand, victu<g ref="char:EOLhyphen"/>alled, and ammunitioned, it is invincible, except fraud or famine do aſſault, or conſpire againſt it.</p>
+               <p>I was 5. hours in <hi>Caernarvon,</hi> and when I thought that I had taken my leave for ever of it, then was I meerly deceived; for when I was a mile on my way, a Trooper came galloping af<g ref="char:EOLhyphen"/>ter me, and enforced me back to be examined by Colonell <hi>Thomas Maſon,</hi> (the Governour there) who after a few words, when hee heard my name, and knew my occaſions, he uſed me ſo re<g ref="char:EOLhyphen"/>ſpectively and bountifully, that (at his charge) I ſtayd all night, and by the means of him, and one Mr. <hi>Lloyd,</hi> (a Juſtice of Peace there) I was furniſhed with a Guide, and ſomething elſe to bear charges for one weeks travaile; for which curteſies, if I were not thankfull, I were worth the hanging for being ingratefull.</p>
+               <p>The 5. of Auguſt I went 12. miles, to a place
+<pb n="15" facs="tcp:169945:8"/>called <hi>Climenie,</hi> where the Noble Sure <hi>John Owen</hi> did, with liberall welcome, entertain me.</p>
+               <p>The 6. day I rode to a Town called <hi>Harleck,</hi> which ſtands on a high barren Mountaine, very uneaſie for the aſcending into, by reaſon of the ſteep and uneeven ſtony way; this Town had neither hay, graſs, oats, or any relief for a horſe: there ſtands a ſtrong Caſtle, but the Town is all ſpoild, and almoſt inhabitable by the late la<g ref="char:EOLhyphen"/>mentable troubles.</p>
+               <p>So I left that Towne (for fear of ſtarving my Horſe) and came to a place called <hi>Bermoth,</hi> (12. miles that day, as narrow as 20.) That place was ſo plentifully furniſhed with want of provi<g ref="char:EOLhyphen"/>ſion, that it was able to famiſh 100. men and horſes: I procured a brace of Boyes to goe two miles to cut graſſe for my <hi>Dun,</hi> for which I gave them two groats; for my ſelfe and Guide, I pur<g ref="char:EOLhyphen"/>chaſed a Hen boyld with Bacon, as yellow as the Cowſlip, or Gold Noble. My courſe Lodging there, was at the homely Houſe of one <hi>John Thomſon,</hi> a Lancaſhire Engliſh man.</p>
+               <p>Saturday the 7. of Auguſt, I Horſt, footed, (and crawling upon all 4.) 10. ſlender miles to <hi>Aberdovy,</hi> which was the laſt lodging that I had in Merionethſhire, where was the beſt en<g ref="char:EOLhyphen"/>tertainment for men, but almoſt as bad as the worſt for horſes in all <hi>Merionethſhire.</hi>
+               </p>
+               <p>Auguſt 9. I gat into <hi>Cardiganſhire,</hi> to a miſe<g ref="char:EOLhyphen"/>rable Market Town called <hi>Aberiſtwith,</hi> where,
+<pb n="16" facs="tcp:169945:9"/>before the late troubles, there ſtood a ſtrong Ca<g ref="char:EOLhyphen"/>ſtle, which being blown up, fell down, and ma<g ref="char:EOLhyphen"/>ny fair Houſes (with a defenſible thick Wall a<g ref="char:EOLhyphen"/>bout the Town) are transformed into confuſed heaps of unneceſſary Rubbidge: within foure miles of this Town, are the ſilver Mines, which were honorable and profitable, as long as my good friend <hi>Thomas Buſhell</hi> Eſquire, had the ma<g ref="char:EOLhyphen"/>naging of them, who was moſt induſtrious in the work, and withall by his noble demeanour, and affable deportment, deſervedly gain'd the generall love and affection of all the Countrey, of all degrees of people: but ſince he hath left that important imployment, the Mines are neg<g ref="char:EOLhyphen"/>lected.</p>
+               <p>From <hi>Aberiſtwith,</hi> I went to the Houſe of Sir <hi>Richard Price,</hi> Knight and Baronet, where my entertainment was freely welcome, with ſome expreſſion of further curteſies at my departure, for which I humbly thank the noble Knight, not forgetting my gratefull remembrance to Mr. <hi>Thomas Evans</hi> there: that whole dayes journey being 9. miles.</p>
+               <p>Tueſday the 10. of Auguſt, having hired a Guide, for I that knew neither the intricate wayes, nor could ſpeake any of the Language, was neceſſitated to have Guides from place to place, and it being Harveſt time, I was forced to pay exceeding deare for Guiding; ſo that ſome dayes I payd 2<abbr>s.</abbr> ſometimes 3. beſides bearing
+<pb n="17" facs="tcp:169945:9"/>their charges of meat and drinke and lodging; for it is to bee underſtood that thoſe kind of la<g ref="char:EOLhyphen"/>bouring people had rather reap hard all the day for ſix pence, then to go ten or twelve miles eaſi<g ref="char:EOLhyphen"/>ly on foot for two ſhillings. That day, after ſix<g ref="char:EOLhyphen"/>teen miles travell, I came to the houſe of an ancient worthy and hoſpitable Gentleman, na<g ref="char:EOLhyphen"/>med <hi>Sure Walter Lloyd,</hi> he was noble in bountifull houſe-keeping, and in his generoſitie, cauſed his horſe to be ſaddled, and the next day hee rode three miles to <hi>Conway,</hi> and ſhewd me the way to <hi>Caermarden,</hi> which they do call 18 ſmall miles, but I had rather ride 30 of ſuch miles as are in many parts of <hi>England;</hi> the way continu<g ref="char:EOLhyphen"/>ally hilly, or mountainous and ſtony, inſomuch that I was forced to alight and walke 30 times, and when the Sun was near ſetting, I having foure long miles to go, and knew no part of the way, was reſolved to take my lodging in a Reeke of Oats in the field, to which purpoſe, as I rode out of the ſtony way towards my field-chamber, my Horſe and I found a ſofter bed, for we were both in a Bog, or Quagmire, and at that time I had much ado to draw myſelfe out of the dirt, or my poore weary <hi>Dun</hi> out if the Mire.</p>
+               <p>I being in this hard ſtrait, having night (of Gods ſending,) Owl-light to guide me, no tongue to aske a queſtion, the way unknown, or uneven; I held it my beſt courſe to grope in the hard ſto<g ref="char:EOLhyphen"/>ny way againe, which having found, (after a
+<pb n="18" facs="tcp:169945:10"/>quarter of an houres melancholy paces) a Horſ<g ref="char:EOLhyphen"/>man of <hi>Wales,</hi> that could ſpeak Engliſh, overtook me and brought me to <hi>Caermarden,</hi> where I found good and free entertainment at the houſe of one Miſtris <hi>Oakley.</hi>
+               </p>
+               <p>
+                  <hi>Caermarden,</hi> the ſhire Town of <hi>Caermardenſhire,</hi> is a good large Town, with a defencible ſtrong Caſtle, and a reaſonable Haven for ſmall Barks and Boats, which formerly was for the uſe of good Ships, but now it is much impedimented with Shelvs, Sands, and other annoyances: It is ſaid that <hi>Merlyn</hi> the Prophet was born there; it is one of the plentifulleſt Townes that ever I ſet foot in, for very fair Egs are cheaper then ſmall Pears; for, as near as I can remember, I will ſet down at what rates victuals was there.</p>
+               <p>Butter, as good as the world affords, two pence halfe penny, or three pence the pound.</p>
+               <p>A Salmon two foot and a halfe long, twelve pence.</p>
+               <p>Biefe, three halfe pence the pound.</p>
+               <p>Oyſters, a penny the hundred.</p>
+               <p>Egs, twelve for a penny.</p>
+               <p>Peares, ſix for a penny.</p>
+               <p>And all manner of Fiſh and Fleſh at ſuch low prices, that a little money will buy much, for there is nothing ſcarce, dear, or hard to come by, but Tobacco pipes.</p>
+               <p>My humble thanks to the Governour there, to <hi>William Guinn</hi> of <hi>Talliaris,</hi> Eſquire; to <hi>Sure
+<pb n="19" facs="tcp:169945:10"/>Henry Vaughan;</hi> and to all the reſt, with the good woman mine Hoſteſs.</p>
+               <p>Concerning <hi>Pembrookſhire,</hi> the people do ſpeak Engliſh in it almoſt generally, and therefore they call it little <hi>England</hi> beyond <hi>Wales,</hi> it being the fartheſt South and Weſt County in the whole Principality: The Shire Town, <hi>Pembrook,</hi> hath been in better eſtate, for as it is now, ſome hou<g ref="char:EOLhyphen"/>ſes down, ſome ſtanding, and many without In<g ref="char:EOLhyphen"/>habitants; the Caſtle there hath been ſtrong, large, ſtately, and impregnable, able to hold out any enemy, except hunger, it being founded up<g ref="char:EOLhyphen"/>on a lofty Rock, gives a brave proſpect a far off: <hi>Tenby</hi> Towne and Caſtle being ſomewhat near, or eight miles from it, ſeems to be more uſefull and conſiderable. My thanks to Miſtris <hi>Powell</hi> at the <hi>Hart</hi> there.</p>
+               <p>
+                  <hi>Tenby</hi> hath a good Caſtle and a Haven, but in reſpect of <hi>Milford</hi> Haven, all the Havens under the Heavens are inconſiderable, for it is of ſuch length, bredth, and depth, that 1000. Ships may ride ſafely in it in all weathers, and by reaſon of the hills that do incloſe it, and the windings and turnings of the Haven from one poynt of land to another, it is conjectured that 1500 ſhips may ride there, and not ſcarce one of them can ſee another. The Haven hath in it 16 Creekes, 5 Bayes, and 13 Rodes, of large capacity, and all theſe are known by ſeverall names.</p>
+               <p>The goodly Church of S. <hi>Davids</hi> hath beene
+<pb n="20" facs="tcp:169945:11"/>forced lately to put off the dull and heavy coat of peacefull Lead, which was metamorphoſed into warlike bullets. In that Church lies inter<g ref="char:EOLhyphen"/>red <hi>Edmund</hi> Earle of <hi>Richmond,</hi> Father to King <hi>Henry</hi> the ſeventh, for whoſe ſake his Grandſon (K. <hi>Henry</hi> the eight) did ſpare it from defacing, when hee ſpared not much that belonged to the Church.</p>
+               <p>Thus having gone and riden many miles, with too many turning and winding Mountains, ſtony turning waies, forward, backward, ſidewaies, circular, and ſemicircular, upon the 17. of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> I rode to the houſe of the right Honourable, <hi>Richard Vaughan</hi> Earle of <hi>Karbery,</hi> at a place cal<g ref="char:EOLhyphen"/>led <hi>Golden Grove;</hi> and ſurely that houſe, with the faire Fields, Woods, Walks, and pleaſant ſcituation, may not onely be rightly called the <hi>Golden Grove,</hi> but it may without fiction be juſtly ſtiled the <hi>Cambrian</hi> Paradiſe, and <hi>Elizium</hi> of <hi>Wales;</hi> but that which grac'd it totally, was the nobleneſs, and affable preſence and deportment of the Earle, with his faire and vertuous new married Counteſs, the beautifull Lady <hi>Alice,</hi> or <hi>Alicia,</hi> daughter to the right Honourable the late Earle of <hi>Bridgwater,</hi> deccaſed: I humbly thank them both, for they were pleaſed to Ho<g ref="char:EOLhyphen"/>nour me ſo much, that I ſupp'd with them, at which time a Gentleman came in, who being ſate, did relate a ſtrange diſcourſe of a violent ram which fell on the mountains in part of <hi>Rad<g ref="char:EOLhyphen"/>norſhire,</hi>
+                  <pb n="21" facs="tcp:169945:11"/>and into <hi>Glomorganſhire;</hi> the ſtory was, as near as I can remember, as followeth:</p>
+               <p>That on Saturday the 17. of <hi>July</hi> laſt, 1652. there fell a ſudden ſhowre of rain in the Coun<g ref="char:EOLhyphen"/>ties aforeſaid, as if an Ocean had flowed from the Clouds to overwhelm and drown the moun<g ref="char:EOLhyphen"/>tains, it poured down with ſuch violent impe<g ref="char:EOLhyphen"/>tuoſitie, that it tumbled down divers houſes of ſtone that ſtood in the way of it; it drowned many Cattell and Sheep, bore all before it as it ran, therefore a poore man with his ſon and daughter forſook their houſe, and the father and ſon climed up into a tree for their ſafety, in the mean time the mercileſs waters took hold of the poore maid, and moſt furiouſly bare her away, down betwen two mountains, rolling and hurling her againſt many great ſtones, till at laſt it threw her near the ſide of the ſtream, and her hair and hair-lace being looſe, it catched hold of a ſtump of an old thorn buſh, by which means ſhe was ſtayed, being almoſt dead; but as ſhe lay in this miſery, ſhe ſaw a ſad and la<g ref="char:EOLhyphen"/>mentable ſight, for the water had fiercely un<g ref="char:EOLhyphen"/>rooted the tree, and bore it down the ſtreame, with her father and brother, who were both un<g ref="char:EOLhyphen"/>fortunately drowned: the Maid, as I was cer<g ref="char:EOLhyphen"/>tified, is like to live and recover.</p>
+               <p>My humble thanks to the good yong hopefull Lord <hi>Vaughan,</hi> and to all the reſt of the Noble Olive Branches of that moſt Worthy Tree of
+<pb n="22" facs="tcp:169945:12"/>Honour, their Father, not omitting or yet for<g ref="char:EOLhyphen"/>getting my gratitude to Mr. <hi>Steward</hi> there, with<g ref="char:EOLhyphen"/>all the reſt of the Gentlemen and ſervants at<g ref="char:EOLhyphen"/>tendant, with my love to Mr. <hi>Thomas Ryve,</hi> un<g ref="char:EOLhyphen"/>known, and ſo <hi>Golden Grove</hi> farewell.</p>
+               <p>The 18. of <hi>Auguſt,</hi> I hired a Guide who brought me to <hi>Swanſey</hi> (16 well ſtretch'd Welch Mountainous Miles) where I was cordially welcome to an Ancient Worthy Gentleman, <hi>Waker Thomas</hi> Eſquire, for whoſe Love and Li<g ref="char:EOLhyphen"/>berality I am much obliged to him and the good Gentlewoman his Wife; he ſtaid me till the next day after Diner, and then ſent his man with me a mile to his Sons houſe, named <hi>William Tho<g ref="char:EOLhyphen"/>mas</hi> Eſquire: There, as ſoone as I had rewar<g ref="char:EOLhyphen"/>ded my Guide he ſlip'd from me, leaving me to the mercy of the Houſe, where I found neither mercy nor manners; for the good Gentleman and his Wife were both rode from home; and though there were people old enough, and big enough, yet there was not one kind enough, or good enough to do me the leaſt kind of courte<g ref="char:EOLhyphen"/>ſie or friendſhip; they did not ſo much as bid me come into the houſe, or offer me a cup of drink; they all ſcornfully wondred at me, like ſo ma<g ref="char:EOLhyphen"/>ny Buzzards and Woodcocks about an Owle, there was a ſhotten thin ſcul'd ſhallow brain'd ſimpleton fellow, that anſwered me, that he was a ſtranger there, but I believed him not, by rea<g ref="char:EOLhyphen"/>ſon of his familiarity with the reſt of the folks,
+<pb n="23" facs="tcp:169945:12"/>there was alſo a ſingle-ſoal'd Gentlewoman, of the laſt Edition, who would vouchſafe me not one poor glance of her eye-beams, to whom I ſaid as followeth.</p>
+               <p>Fair Gentlewoman, I was ſent hither by the Father of the Gentleman of this Houſe, to whom I have a Letter from a Gentleman of his fami<g ref="char:EOLhyphen"/>liar acquaintance; I am ſure that the Owner of this Place is famed and reported to be a man en<g ref="char:EOLhyphen"/>dowed with all affability and courteſie to ſtran<g ref="char:EOLhyphen"/>gers as is every way accommodating to a Gen<g ref="char:EOLhyphen"/>tleman of Worth and Quality; and that if I were but a meer ſtranger to him, yet his Gene<g ref="char:EOLhyphen"/>roſity would not ſuffer me to be harbourleſs, but by reaſon of his Fathers ſending his ſervant with me, and a Friends Letter, I ſayd that if Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> had been at home I ſhould be better enter<g ref="char:EOLhyphen"/>tained.</p>
+               <p>To which Mrs. <hi>Pumpkins</hi> looking ſcornfully, aſcue over her ſhoulders, anſwered me with <hi>(it may be ſo)</hi> then moſt uncurteous Miſtris, quoth I, I doubt I muſt bee neceſſitated to take up my lodging in the Field: To which the ſaid ungen<g ref="char:EOLhyphen"/>tle Gentlewoman (with her poſteriors, or butt end towards me) gave me a finall Anſwer, that I might if I would.</p>
+               <p>Whereupon I was enraged and mounted my <hi>Dun,</hi> and in a friendly maner I tooke my leave, ſaying, that I would wander further and try my fortune, and that if my ſtay at that houſe, that
+<pb n="24" facs="tcp:169945:13"/>night, would ſave either Mr. <hi>Shallow-pate,</hi> or Mrs. <hi>Jullock</hi> from hanging, that I would rather lie, and venture all hazards that are incident to Horſe, Man, or Traveller, then to be beholding to ſuch unmanerly Mungrils.</p>
+               <p>Thus deſperately I ſhaked them off, that would not take me on, and riding I knew not whither, with a wide wild Heath under me, and a wider Firmament above me. I roade at ad<g ref="char:EOLhyphen"/>venture, betwixt light and darkneſs, about a mile, when luckily a Gentleman overtook mee, and after a little talk of my diſtreſſe and travail, he bad me be of good chear, for he would bring me to a lodging and entertainment; in which promiſe he was better then his word, for hee brought mee to a pretty Market Towne called <hi>Neath,</hi> where he ſpent his money upon me; for which kindneſs I thank him. But one Doctour (as they call him) <hi>Rice Jones,</hi> (or Doctor <hi>Merri<g ref="char:EOLhyphen"/>man</hi>) came and ſupt with mee, and very kindly payd all the reckoning. That dayes journey be<g ref="char:EOLhyphen"/>ing but 6 miles ſterling.</p>
+               <p>The 19. of Auguſt I hired a Guide for 3 <abbr>s.</abbr> (16 miles) to a place called <hi>Penline,</hi> where ſomtime ſtood a ſtrong Caſtle, which is now ruined; ad<g ref="char:EOLhyphen"/>joyning to it, or in the place of it, is a fair houſe, belonging to <hi>Anthony Turberville</hi> Eſquire, where although the Gentleman was from home, the good Gentlewoman, his Wife, did with hoſpi<g ref="char:EOLhyphen"/>table and noble kindneſſe, bid me welcome.</p>
+               <pb n="25" facs="tcp:169945:13"/>
+               <p>Fryday, the 20. of <hi>Auguſt,</hi> I rode a mile to an Ancient Town, named <hi>Coobridge,</hi> from whence I ſcrambled two miles further to <hi>Llanſtrithyott,</hi> where the Noble Gentleman Sure <hi>John Awbrey,</hi> with his Vertuous Lady kept me three dayes, in the mean ſpace I rode two miles to the houſe of the Ancient and Honorable Knight, Sir <hi>Thomas Lewis</hi> at <hi>Penmark,</hi> to whom and his good Lady, I humbly dedicate my gratitude: The ſame day after Dinner, I returned back to <hi>Llanſtrithyott,</hi> which was to me a ſecond Golden Grove, or Welch Paradice, for Building, Scituation, whol<g ref="char:EOLhyphen"/>ſome Ayre, Pleaſure and Plenty, for my free en<g ref="char:EOLhyphen"/>tertainment there, with the Noble expreſſion of the Gentlemans Bounty at my departure, I heartily do wiſh to him and his, with all the reſt of my Honorable and Noble, Worſhipfull and friendly Benefactors, true peace and happineſſe, internall, externall, and eternall.</p>
+               <p>Monday, the 23. of <hi>Auguſt,</hi> I rode eight miles to the good Town of <hi>Cardiffe,</hi> where I was wel<g ref="char:EOLhyphen"/>come to Mr. <hi>Aaron Price,</hi> the Town Clark there, with whom I dined, at his coſt and my perrill, after Dinner he directed me two miles further, to a place called <hi>Llanrumney,</hi> where a right true bred generous Gentleman, <hi>Thomas Morgan</hi> Eſ<g ref="char:EOLhyphen"/>quire, gave me ſuch loving and liberall enter<g ref="char:EOLhyphen"/>tainment, for which I cannot be ſo thankfull as the merit of it requires.</p>
+               <p>Tueſday, being both Saint <hi>Bartholomews</hi> Day,
+<pb n="26" facs="tcp:169945:14"/>my Birth day, the 24, of the Month, and the ve<g ref="char:EOLhyphen"/>ry next day before Wedneſday, I aroſe betimes, and travelled to a Town called <hi>Newport,</hi> and from thence to <hi>Carbean,</hi> and laſtly to <hi>
+                     <g ref="char:V">Ʋ</g>ske,</hi> in all 15 well meaſu'd Welſh <hi>Monmouthſhire</hi> miles: at <hi>Uske</hi> I lodg'd at an Inne, the houſe of one Maſter <hi>Powell.</hi>
+               </p>
+               <p>The 25. of <hi>Auguſt</hi> I rode but 12 miles, by an unlook'd for accident, I found <hi>Bartholomew</hi> Faire at <hi>Monmouth,</hi> a hundred miles from Smithfield; there I ſtayed two nights upon the large reckon<g ref="char:EOLhyphen"/>ing of Nothing to pay, for which I humbly thank my Hoſpitable Hoſt, and Hoſteſs, Maſter <hi>Reignald Rowſe</hi> and his good Wife.</p>
+               <p>
+                  <hi>Monmouth,</hi> the Shire Town of <hi>Monmouthſhire,</hi> was the laſt Welſh ground that I left behind me: <hi>Auguſt</hi> 27. I came to <hi>Gloceſter,</hi> where though I was born there, very few did know me; I was almoſt as ignorant as he that knew no body: my lodging there was at the ſigne of the <hi>George,</hi> at the houſe of my Nameſake, Maſter <hi>John Tay<g ref="char:EOLhyphen"/>lor,</hi> from whence on Saturday the 28. I rode 16. miles to <hi>Barnſley.</hi>
+               </p>
+               <p>Of all the places in <hi>England</hi> and <hi>Wales</hi> that I have travelled to, this Village of <hi>Barnſley</hi> doth moſt ſtrictly obſerve the Lords day, or Sunday, for little children are not ſuffered to walke or play: and two Women who had beene at Church both before and after Noone, did but walke into the fields for their recreation,
+<pb n="27" facs="tcp:169945:14"/>and they were put to their choice, either to pay ſixpence apiece (for prophane walking,) or to be laid one houre in the ſtocks; and the pieviſh willfull women (though they were able enough to pay) to ſave their money and jeſt out the matter, lay both by the heeles merrily one houre.</p>
+               <p>There is no ſuch zeale in many places and Pa<g ref="char:EOLhyphen"/>riſhes in <hi>Wales;</hi> for they have neither Service, Prayer, Sermon, Miniſter, or Preacher, nor any Church door opened at all, ſo that people do exerciſe and edifie in the Church-Yard, at the lawfull and laudable Games of Trap, Catt, Stool-ball, Racket, &amp;c. on Sundayes.</p>
+               <p>From <hi>Barnſley</hi> on Monday the 30. of <hi>Auguſt,</hi> I rode 30 miles to <hi>Abington,</hi> from thence, &amp;c. to <hi>London,</hi> where I brought both ends together on Tueſday the 7. of <hi>September.</hi>
+               </p>
+               <p>Thoſe that are deſirous to know more of <hi>Wales,</hi> let them either travell for it as I have done, or read Mr. <hi>Camdens Brittania,</hi> or Mr. <hi>Speeds</hi> labo<g ref="char:EOLhyphen"/>rious Hiſtory, and their Geographicall Maps and Deſcriptions will give them more ample, or contenting ſatisfaction.</p>
+            </div>
+         </div>
+         <div type="history">
+            <pb facs="tcp:169945:15"/>
+            <argument>
+               <p>ONE <hi>Humphrey Lloyd</hi> Eſquire, did exactly collect the Brittiſh, or Welſh Hi<g ref="char:EOLhyphen"/>ſtory from the Originall, till the yeare <hi>1510.</hi> after which it was continued by Doctor <hi>David Powell,</hi> till the yeare <hi>1584.</hi> Printed then and Dedicated to Sir <hi>Phillip Sidney</hi> Knight: thoſe who are deſirous to read more largely, let them make uſe of their larger Book: But for ſuch as love brevity, or cheapneſſe, let them read this which followeth.</p>
+            </argument>
+            <pb facs="tcp:169945:15"/>
+            <head>Cambria Brittania: <hi>OR,</hi> Aſhort Abreviation of the Hiſtory, and Chro<g ref="char:EOLhyphen"/>nicles of <hi>VVALES.</hi>
+            </head>
+            <byline>
+               <hi>By</hi> JOHN TAYLOR.</byline>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>ARADOC</hi> of <hi>Lancarvan,</hi> (a ſtudious Antiquary, and a learned diligent Collector of the Succeſſions and Acts of the Brittiſh Princes) did write the Hiſtory of <hi>Wales,</hi> from the time and Raigne of <hi>Cadwallador,</hi> who lived in the yeare of our Re<g ref="char:EOLhyphen"/>demption, 685, and continued the ſaid Chrono<g ref="char:EOLhyphen"/>logy near 500 years, till the Raigne of <hi>Henry</hi> the ſecond King of <hi>England.</hi> It hath alwayes before thoſe times, and ever ſince, that Writers for feare, or flattery, or profit, have uſed ſhamefull (or ſhameleſs) partiality, in publiſhing the fames of their owne Princes, and Countrey, above meaſure, and beyond truth; but in their detra<g ref="char:EOLhyphen"/>cting and traducing others, they have been too liberall; and in relating their Valour, Vertues, or Injuries of ſuch they fancyed not, they have been too ſparing, or wilfully negligent.</p>
+            <p>But to make bold and ſpeak the truth, it is
+<pb n="30" facs="tcp:169945:16"/>worth good conſideration, to know what reaſon the <hi>Engliſh</hi> had to make Warr againſt the <hi>Welſh; Wales</hi> had ever been a free Countrey, not ſubject to any Prince, except their own; they owed no Homage or Alegiance neither to <hi>England,</hi> or to any other Crowne, or State; their Language, Lawes, and Cuſtoms, were of their own inſtitu<g ref="char:EOLhyphen"/>tions, to which Lawes both Prince and people were ſubject; they lived quietly upon their owne, and they never went forth of their owne bounds to rob the <hi>Engliſh,</hi> or to ſpoile and invade <hi>England,</hi> or any other Nation. Then the que<g ref="char:EOLhyphen"/>ſtion is with much eaſe propoſed and anſwered. What cauſe did the <hi>Welſh</hi> give to the <hi>Engliſh</hi> to make Warre upon them, to invade, plunder, ſpoile, and kill? the Anſwer is, or may be, Be<g ref="char:EOLhyphen"/>cauſe the <hi>English</hi> were ambitious, and covetous, and alſo ſtronger then their Neighbours, and being able and willing to do injury, and oppreſs the <hi>Welsh,</hi> they many times attempted to ſub<g ref="char:EOLhyphen"/>ject and conquer them; and they (on the other ſide) did manfully reſiſt, and oppoſe their <hi>English</hi> Invadors, as this brief Relation will truly declare and manifeſt.</p>
+            <p>Thus force reſiſted force, the <hi>Saxons, Danes, English, Irish,</hi> and <hi>Flemmings,</hi> all ſeverally, and ſometimes joyned together, to conquer, and make prey and purchaſe of poor <hi>Wales,</hi> they all ſtriving to have the Goods and Lands that be<g ref="char:EOLhyphen"/>longed not to them; and the <hi>Welsh</hi> men (with
+<pb n="31" facs="tcp:169945:16"/>their beſt indeavours) juſtly and valiantly hold<g ref="char:EOLhyphen"/>ing their own. They had kept their Country &amp; language 2700. years, and the Hiſtorians, Anti<g ref="char:EOLhyphen"/>quaries, and Gentry of that Nation did record their Laws, Pedigrees, and Genealogies, with as much, or more, exact truth then many, or a<g ref="char:EOLhyphen"/>ny other Nations. They had lived under their own Governours (from the time of <hi>Heli</hi> the High Prieſt of the Jews,) 1800 years before <hi>Cad<g ref="char:EOLhyphen"/>wallador,</hi> who went to <hi>Rome,</hi> and died there; from which time the chief Rulers of <hi>Wales,</hi> were ſometimes ſtiled Kings, ſometimes Princes; theſe were many times under one King or Prince, of <hi>Northwales;</hi> ſometimes they had three Princes or Kings, as <hi>North-Wales, South-Wales,</hi> and <hi>Powis Land.</hi> Theſe three Princes, although they had many and mighty Enemies, did often make Warre upon each other, ſpoiling, and harraſing their Countrey, to the advantage of their Ene<g ref="char:EOLhyphen"/>mies and ruine of themſelves. But to proceed to the Hiſtory.</p>
+            <p>In the yeare 688. <hi>Ivor</hi> (a kinſman of <hi>Cadwala<g ref="char:EOLhyphen"/>dor</hi>) was Prince ſome ſmall time; and hee alſo went to <hi>Rome,</hi> and there ended his daies.</p>
+            <p>The Next <hi>Ivor, Roderick Molwinnoc,</hi> the ſecond Prince of <hi>North-Wales</hi> rained 30 years; he was Grandchild to <hi>Cadwallador,</hi> a valiant man, he died <hi>Anno</hi> 755.</p>
+            <p>The third was <hi>Canon Tindaethwy,</hi> a gallant Prince, he Warr'd with good ſucceſs, againſt
+<pb n="32" facs="tcp:169945:17"/>
+               <hi>Offa,</hi> King of <hi>Mercia,</hi> who would have invaded <hi>North Wales;</hi> but <hi>Canon</hi> did defend himſelfe ſo ſtoutly, that <hi>Offa</hi> with much loſs retired: the Engliſh at that time had not one foot of ground in <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 800. <hi>Mervin</hi> was the fourth King of <hi>North-Wales,</hi> he married <hi>Eſylht,</hi> Daughter to <hi>Ca<g ref="char:EOLhyphen"/>non;</hi> in his time <hi>Egbert,</hi> King of the Weſt <hi>Saxons,</hi> invaded and ſpoyled <hi>Angleſey,</hi> and <hi>Kenulph,</hi> King of <hi>Mercia,</hi> did much miſchiefe in <hi>Powis Land,</hi> whereby <hi>Mervin</hi> being overpowred, was ſlaine, valiantly fighting againſt the King of <hi>Mercia.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 843. <hi>Roderick</hi> the ſecond (called the Great) was the 5. King of <hi>North-Wales;</hi> hee had much war with the Engliſh <hi>Mercians,</hi> with va<g ref="char:EOLhyphen"/>rious ſucceſs, but for the moſt part fortunate. In his Raigne, the <hi>Danes</hi> came and ſpoiled <hi>Angle<g ref="char:EOLhyphen"/>ſey,</hi> againſt whom Prince <hi>Roderick</hi> manfully fighting was unfortunately ſlaine. But ſome do write, that he did beat the <hi>Danes</hi> out of <hi>Angleſey,</hi> and ſlain afterwards in a Battell againſt the En<g ref="char:EOLhyphen"/>gliſhmen, <hi>Anno</hi> 876. when he had raigned with much love and honour 39 years.</p>
+            <p>The 6. King or Prince was <hi>Anarawd,</hi> the ſon of <hi>Roderick;</hi> and about that time of <hi>Anno</hi> 877. the <hi>Normans,</hi> with their Duke <hi>Rollo,</hi> invaded a great Province in <hi>France,</hi> which from the name of <hi>Normans,</hi> (or Northern men) is to this day called <hi>Normandy.</hi>
+            </p>
+            <p>In the year of grace 878. the <hi>Danes</hi> and <hi>Engliſh</hi>
+               <pb n="33" facs="tcp:169945:17"/>men came with great powers againſt <hi>Wales,</hi> be<g ref="char:EOLhyphen"/>tween whom and the <hi>Welſh</hi> was then a bloudy battell, near the water of <hi>Conwy,</hi> where the <hi>Welſh</hi> had a mighty Victory, which they called the Re<g ref="char:EOLhyphen"/>venge for the death of <hi>Roderick.</hi> Prince <hi>Anarawd</hi> died, after much trouble, in <hi>Anno</hi> 913. having Rained 34. years.</p>
+            <p>Seventhly, or the 7. Prince was <hi>Edwal Voel,</hi> the <hi>Danes</hi> ſpoyled <hi>Angleſey,</hi> and the <hi>Engliſh</hi> burnt and ſpoiled <hi>Brecknock. Athelſtane</hi> King of <hi>England,</hi> enforced the <hi>Welſh</hi> to pay him a yearly tribute of 20 pounds in Gold, 300 pounds in ſilver, and 200 Bieves, or Cattell. Afterwards <hi>Edwal Voel</hi> had raigned 25 years, he and his Brother <hi>Elſe</hi> were both ſlaine, fighting with the <hi>Danes, Anno</hi> 938.</p>
+            <p>The 8. Prince was <hi>Howell Dha,</hi> he was a kinſ<g ref="char:EOLhyphen"/>man to <hi>Edwal Voel,</hi> he was a Prince of <hi>South-wales,</hi> but he afterwards had all <hi>Wales;</hi> the <hi>Engliſh</hi> vexed him often, and did much hurt; but ſtill <hi>Howel</hi> galantly reſiſted them, and died much lamented, in the year of Chriſt 948.</p>
+            <p>The 9. were <hi>Jevaſ</hi> and <hi>Jago,</hi> or <hi>James,</hi> both Brethren, and ſons to <hi>Edwal Voel.</hi> They had cru<g ref="char:EOLhyphen"/>ell wars with <hi>Owen,</hi> and his Brethren, (the ſons of <hi>Howel Dha</hi>) in which Bickerings <hi>Owen</hi> (with his Brothers) were ſlaine. About this time the <hi>Danes</hi> ſpoiled <hi>Angleſey,</hi> and burnt <hi>Holy-head.</hi> And alſo <hi>Wales</hi> was much troubled by <hi>Edgar</hi> King of <hi>England;</hi> but it was agreed at laſt, that the tri<g ref="char:EOLhyphen"/>bute
+<pb n="34" facs="tcp:169945:18"/>of gold, &amp; ſilver, &amp; cattel, which was laid on the Welſh Nation in <hi>Edwal Voels</hi> time, after it had been paid near 13 years, ſhould be remitted, and in lieu thereof, the Princes of <hi>Wales</hi> were in<g ref="char:EOLhyphen"/>joyned to pay a certaine number of Woolves heads (for at that time four-leg'd Woolves did as much miſchiefe amongſt Beaſts, Sheep, and Cattell, as two-leg'd Woolves have done in theſe latter times amongſt men,) and by the means of the yearly payment of the aforeſaid Woolves heads, there was not one of thoſe ra<g ref="char:EOLhyphen"/>venous beaſts in three years payment to be found in all <hi>Wales,</hi> or the Marches of <hi>England.</hi>
+            </p>
+            <p>The Brethren the Princes fell our, (for Lord<g ref="char:EOLhyphen"/>ſhip and Love can brook no Rivalls or fellow<g ref="char:EOLhyphen"/>ſhip) <hi>James</hi> impriſoned <hi>Jevaf</hi> a long time, at which time, the <hi>Danes</hi> entred <hi>Angleſey,</hi> and did much ſpoile, <hi>Howell</hi> the ſon of <hi>Jevaf,</hi> made ſharp war againſt his Unkle <hi>Jago,</hi> or <hi>James,</hi> and beat him, and releaſt his Father, after which he took his eldeſt Unkle <hi>Meric,</hi> and put his eyes out; but never reſtored his Father to his former e<g ref="char:EOLhyphen"/>ſtate, but kept the Principality to himſelfe: This was about the yeare of our Lord 974.</p>
+            <p>The 10. King or Prince of <hi>North-Wales</hi> (or al<g ref="char:EOLhyphen"/>moſt all <hi>Wales</hi>) was <hi>Howell ap Jevaf,</hi> or the ſon of <hi>Jevaf, Anno</hi> 975. there was great wars and much bloudſhed betwixt <hi>South</hi> and <hi>North-Wales;</hi> but <hi>Howell</hi> took his Unkle <hi>James,</hi> which had impri<g ref="char:EOLhyphen"/>ſoned his Father <hi>Jevaf,</hi> and then poſſeſt all <hi>Wales</hi>
+               <pb n="35" facs="tcp:169945:18"/>in peace, for a ſhort while, for the <hi>Danes</hi> brake in and ſpoiled many Towns and places in <hi>North-Wales,</hi> and did much miſchiefe to the Cathedrall of S. <hi>Davids.</hi> And in 982. a great Army from <hi>England,</hi> waſted and ſpoiled <hi>Brecknock,</hi> and a great part of <hi>South-Wales;</hi> but Prince <hi>Howell</hi> made war againſt them, ſlew many, and made the reſt flee. The ſecond yeare after <hi>Howell</hi> entred <hi>England</hi> with an Army, in which war he was ſlaine valiantly fighting, in the yeare 984. to whom ſucceeded his Brother.</p>
+            <p>
+               <hi>Cadwallon,</hi> the 11. Prince, he firſt warred a<g ref="char:EOLhyphen"/>gainſt <hi>Jonavall</hi> the ſon of <hi>Meric,</hi> whoſe eyes <hi>Ho<g ref="char:EOLhyphen"/>well</hi> had cauſed to be put out, who by right was right Lord of all <hi>Wales:</hi> In the end <hi>Jonavall</hi> was ſlain by <hi>Cadwalhon,</hi> and the next year after <hi>Cad<g ref="char:EOLhyphen"/>walhon</hi> himſelfe was kill'd by <hi>Meredith,</hi> the ſon of <hi>Owen,</hi> Prince of <hi>South-Wales, Anno</hi> 985.</p>
+            <p>The 12. King or Prince was <hi>Meredith ap Owen,</hi> or the ſon of <hi>Owen,</hi> which <hi>Owen</hi> was ſon to <hi>Ho<g ref="char:EOLhyphen"/>well Dha,</hi> before mentioned; he began in the yeare 986. and had a moſt troubleſome Govern<g ref="char:EOLhyphen"/>ment; for the <hi>Danes</hi> again waſted <hi>Angleſey.</hi> They took Priſoner <hi>Lhywach,</hi> Brother to Prince <hi>Me<g ref="char:EOLhyphen"/>redith,</hi> and put his eyes out, and the <hi>Danes</hi> tooke 2000 Priſoners, and either carried them away, or put them to ranſome, and in the yeare 98. the <hi>Danes</hi> came againe and ſpoyled St. <hi>Davids, Lhandydoch, Llanbadarne, Llanriſted,</hi> and all Religious Places of Devotion that their hea<g ref="char:EOLhyphen"/>theniſh
+<pb n="36" facs="tcp:169945:19"/>power could maſter.</p>
+            <p>In theſe troubles Prince <hi>Meredith</hi> was forced to give thoſe miſcreant <hi>Danes,</hi> a peny a Head for every man that was then alive in all his Domi<g ref="char:EOLhyphen"/>nions; which payment was called the Black Ar<g ref="char:EOLhyphen"/>mies Tribute; about this time all <hi>South-Wales</hi> was over-ran by the <hi>Engliſh,</hi> and (to fill the meaſure of the Affliction in <hi>Wales</hi>) <hi>Meredith</hi> made mighty havock in <hi>Glamorgan-ſhire:</hi> So that there was not any place in <hi>Wales,</hi> free from the fury of fire and ſword. But to make the meaſure of miſery heap and run over, the <hi>Danes</hi> came once more and made a prey of the Iſle of <hi>Angleſey;</hi> with which continuall troubles <hi>Me<g ref="char:EOLhyphen"/>redith</hi> being overladen and wearied, reſigned his Princely Authority to <hi>Edwal ap Meric ap Mere<g ref="char:EOLhyphen"/>dith,</hi> or his own Grandchild: <hi>Meredith died</hi> 998.</p>
+            <p>
+               <hi>Edwal</hi> the 13. Prince of <hi>North-Wales,</hi> was ſcarce warm in his ſeat, but <hi>Meredith</hi> ſought and fought for re-poſſeſſion, and after much bloudſhed, loſt his labour. Then the <hi>Danes</hi> came again and ſpoiled much in <hi>North-Wales;</hi> and the Prince valiantly fighting was ſlain, and the ſame <hi>Danes</hi> came again to S. <hi>Davids,</hi> ranſack'd it, and ſpoi<g ref="char:EOLhyphen"/>led all the Countrey.</p>
+            <p>The 14. King was <hi>Aedan ap Belgored,</hi> he fought for the Principality with <hi>Conan</hi> the ſon of <hi>Ho<g ref="char:EOLhyphen"/>well,</hi> and ſlew him in the year 1003. About this time the <hi>Danes</hi> ſpoiled many places in <hi>Weſt-Wales;</hi> and in this Princes Raigne all the <hi>Danes</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="37" facs="tcp:169945:19"/>were ſlaine in one night; and <hi>Anno</hi> 1015. Prince <hi>Aedon</hi> was ſlain by his ſucceſſor.</p>
+            <p>
+               <hi>Lhewelyn ap Sitſylht,</hi> after he had kill'd <hi>Aedan,</hi> was the 15. Prince; he had a peacefull and plen<g ref="char:EOLhyphen"/>tifull beginning, till a low born <hi>Scot,</hi> whoſe name was <hi>Runne,</hi> faigned himſelfe to be the ſonne of <hi>Meredith ap Owen</hi> before named: But <hi>Lhewelyn</hi> met him, and fought with him, and in the end made <hi>Runne</hi> run, till at laſt he killed him; And after that, this Prince was ſlaine by <hi>Howell</hi> and <hi>Meredith</hi> the ſons of <hi>Edwal,</hi> 1026.</p>
+            <p>The 16. Prince was <hi>Jago</hi> (or <hi>James</hi>) the ſon of <hi>Edwal,</hi> he rained over <hi>North-Wales,</hi> and <hi>Rytherch ap Jeſtin</hi> ſwayed in <hi>South-Wales,</hi> 1031. But by continuall contention betwixt the Grandchil<g ref="char:EOLhyphen"/>dren of <hi>Howell Dha, Rytherch</hi> (Prince of <hi>South-Wales</hi>) was ſlain by the <hi>Engliſh;</hi> and then aroſe new Wars in <hi>NorthWales,</hi> for <hi>Griffith ap Lbewelyn ap Sytylth</hi> war'd againſt <hi>Jago,</hi> ſlew him, and poſ<g ref="char:EOLhyphen"/>ſeſt the Principality, <hi>Anno,</hi> 1037.</p>
+            <p>
+               <hi>Griffith ap Lhewelyn</hi> was the 17. Prince of <hi>North-Wales,</hi> he overcame both the <hi>Engliſh</hi> and the <hi>Danes,</hi> when they would have invaded his Land, <hi>in Anno,</hi> 1038. He had much trouble with Prince <hi>Howell</hi> of <hi>South-Wales;</hi> but in the end he overcame him, and poſſeſt his Principallity; after this <hi>Griffith</hi> was treacherouſly taken, by <hi>Conan</hi> the Son of <hi>Jago,</hi> and as <hi>Conan</hi> was carrying him a<g ref="char:EOLhyphen"/>way towards ſome <hi>Iriſh</hi> Ships, the Country a<g ref="char:EOLhyphen"/>roſe up ſpeedily and happily, and (after a ſharpe
+<pb n="38" facs="tcp:169945:20"/>fight) redeemed their Prince <hi>Griffith,</hi> and <hi>Conan</hi> was forced to flie for his life. After that the Prince had another great fight with <hi>Howell ap E<g ref="char:EOLhyphen"/>dwin,</hi> which <hi>Howell</hi> was joyn'd with the <hi>Danes</hi> and <hi>Engliſh,</hi> and in a bloudy battle the <hi>Engliſh</hi> and <hi>Danes</hi> were overthrown, that very few eſca<g ref="char:EOLhyphen"/>ped; <hi>Howell</hi> was ſlain &amp; Prince <hi>Griffith</hi> victorious; but peace laſted not three Months, but <hi>Ritherich</hi> and <hi>Rees,</hi> two of <hi>Jeſtins</hi> Sons, made War upon <hi>Griffith,</hi> and after a cruel fight all day, the darke night parted them, that both Armies returned with great loſſe to their homes.</p>
+            <p>About this time there raigned in <hi>Scotland</hi> a bloudy uſurping Tyrant, named <hi>Mackbeth,</hi> hee cauſed a Lord, one <hi>Bancho,</hi> to bee murthered, whoſe Son, named <hi>Fleance,</hi> eſcaped and fled into <hi>Wales,</hi> and was courteouſly entertained, with love and welcome to Prince <hi>Griffith; Griffith</hi> had a bountifull Daughter, with whom <hi>Fleance</hi> grew to be ſo familiar, that he got her with child; for which the offended Prince cauſed the head of <hi>Fleance</hi> to be ſtrooke off, and in rage caſt off his Daughter, who was in ſhort time delivered of a Male Child, named <hi>Walter:</hi> This <hi>Walter</hi> grew to be a tall goodly Gentleman to whom few or ſcarce one was comparable for ſtrength, feature, valour, agillity and affability: And when one in deriſion called him Baſtard he killed him, and fled into <hi>Scotland,</hi> in the yeare 1052, and in the Raign of <hi>Robert Bruiſe</hi> King of <hi>Scots,</hi> then with
+<pb n="39" facs="tcp:169945:20"/>which King, the ſaid <hi>Walter</hi> won ſuch favour, for ſome gallant ſervices which he had done, that with love and honour, he was made Lord <hi>Stuart,</hi> or <hi>Steward,</hi> of <hi>Scotland,</hi> and receiver of the Kings whole Revenue; and from that Office did come the name of <hi>Steward,</hi> now called <hi>Stuart,</hi> of which Sirname many Kings, Princes, Lords, and Gen<g ref="char:EOLhyphen"/>tlemen have been and are deſcended.</p>
+            <p>
+               <hi>Griffith ap Ritherch ap Jeſtin,</hi> made hot War a<g ref="char:EOLhyphen"/>gainſt <hi>Griffith ap Lhewelyn,</hi> but <hi>Lhewelyn</hi> overcame and ſlew him, 1054. then he made an inrode in<g ref="char:EOLhyphen"/>to <hi>England,</hi> and with the ayd of <hi>Algar</hi> Earle of <hi>Cheſter,</hi> hee ſpoyled all <hi>Hereford ſhire,</hi> and burnt the City of <hi>Hereford</hi> to aſhes, and returned with much ſpoyle.</p>
+            <p>But in the concluſion the <hi>Danes</hi> were ayded by <hi>Harrold</hi> King of <hi>England,</hi> and aſſiſted by ſome perfidious <hi>Welſh</hi> Lords, they entred <hi>Wales</hi> with great Forces, at which time this Noble Prince <hi>Griffith ap Lhewelyn,</hi> was treacherouſly murdered by his own men, and his head preſented to <hi>Har<g ref="char:EOLhyphen"/>rold</hi> King of <hi>England.</hi> Thus this gallant <hi>Griffith,</hi> liv'd beloved, and dy'd lamented, when hee had governed 34 years.</p>
+            <p>
+               <hi>Blethyn</hi> and <hi>Rywalhon,</hi> were the Sonnes of <hi>Conum,</hi> and Brothers by the Mothers ſide to <hi>Griffith ap Lhewelyn;</hi> in the Raign of theſe two, <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> Surnamed the Conquerour, came into <hi>En<g ref="char:EOLhyphen"/>gland, Anno</hi> 1066. and in 1068. two Sons of <hi>Grif<g ref="char:EOLhyphen"/>fith ap Lhewelyn,</hi> did raiſe War againſt <hi>Blethyn</hi> &amp;
+<pb n="40" facs="tcp:169945:21"/>
+               <hi>Rywalhon,</hi> their names were <hi>Meredith</hi> and <hi>Ithell,</hi> in theſe Wars, Fortune playd a Game at Croſſe Ruffe, for <hi>Ithell</hi> was ſlain on the one ſide, and <hi>Rywalhon</hi> on the other; <hi>Meredith</hi> fled, and <hi>Blethin</hi> was Maſter of all <hi>Wales:</hi> Shortly after the <hi>Nor<g ref="char:EOLhyphen"/>mans</hi> ſpoyled <hi>Cardigan,</hi> and a great part of <hi>Weſt-Wales,</hi> and in the year, 1073. <hi>Blethin</hi> was traite<g ref="char:EOLhyphen"/>rouſly murdered by <hi>Rees ap Owen ap Edwin.</hi> This <hi>Blethin</hi> was the 18. Prince who left four Sons: But for all that,</p>
+            <p>
+               <hi>Traherne</hi> his Kinſman got the Principalities of <hi>North-Wales,</hi> and was the 19. Prince, at which time <hi>Rees ap Owen,</hi> with <hi>Ritherch ap Caradoc,</hi> had equall all <hi>South-Wales,</hi> but <hi>Ritherch</hi> was quickly murdered treacherouſly, and <hi>Rees</hi> then had all <hi>South-Wales,</hi> but <hi>Rees</hi> and another Brother of his were both ſlain in hot fight, by <hi>Caradoc ap Griffith,</hi> and <hi>in Anno,</hi> 1087. <hi>Traherne</hi> was ſlaine by his Couſins, of the Line and Race of <hi>Howell Dha.</hi>
+            </p>
+            <p>The 20. Prince of <hi>North-Wales</hi> was <hi>Griffith</hi> the Son of <hi>Conan,</hi> and <hi>Rees ap Theodor</hi> had <hi>South-Wales,</hi> but <hi>Rees</hi> was mightily troubled in Wars with ſome Kinſmen of his, who in the end were all ſlain; then was St. <hi>Davids</hi> ſpoyled and burnt by Rovers, and <hi>Rees</hi> was murdered at <hi>Brecknok</hi> by his own ſervants, ayded by ſome <hi>Normans:</hi> at that time <hi>Robert Fitzharmaco</hi> Knight, and one of the Gentlemen of the Privy Chamber to <hi>William Ru<g ref="char:EOLhyphen"/>fus</hi> King of <hi>England,</hi> ſurpriſed the Lordſhip of <hi>Glamorgan,</hi> which the <hi>Engliſh</hi> do hold yet; alſo
+<pb n="41" facs="tcp:169945:21"/>12. Commanders with him did likewiſe take Portions of Land there: Their Names were,
+<list>
+                  <item>1. <hi>William de Londres,</hi> or <hi>London.</hi>
+                  </item>
+                  <item>2. <hi>Richard Granavilla,</hi> or <hi>Greeneville,</hi> or <hi>Greene<g ref="char:EOLhyphen"/>feild.</hi>
+                  </item>
+                  <item>3. <hi>Paganus de Turberville.</hi>
+                  </item>
+                  <item>4. <hi>Robert de St. Quintin.</hi>
+                  </item>
+                  <item>5. <hi>Richard Sywarde.</hi>
+                  </item>
+                  <item>6. <hi>Gilbertus Humfrevell.</hi>
+                  </item>
+                  <item>7. <hi>Reignold de Beckrolls.</hi>
+                  </item>
+                  <item>8. <hi>Reinoldus de Swilly.</hi>
+                  </item>
+                  <item>9. <hi>Peter le Sorre.</hi>
+                  </item>
+                  <item>10. <hi>Johanes de Flemming.</hi>
+                  </item>
+                  <item>11. <hi>Oliverus St. John.</hi>
+                  </item>
+                  <item>12. <hi>John William de Eſterling,</hi> now <hi>Stradling.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>After much trouble, many cruel fights, with great ſlaughters of, and againſt <hi>Normans, Engliſh, Iriſh, Scots,</hi> and continuall War with <hi>South-Wales,</hi> and divers places more in <hi>Wales;</hi> this victorious Prince dyed, much beloved aud lamented for, when he had Nobly Ruled 50. years, <hi>Anno</hi> 1137.</p>
+            <p>The 21. King was <hi>Owen Gwynneth,</hi> who was Sou to the laſt Famous Prince <hi>Griffith,</hi> he began with Wars againſt <hi>South-Wales,</hi> where the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> had taken poſſeſſion, with <hi>Flemmings, Nor<g ref="char:EOLhyphen"/>mans,</hi> and others; he chaſed them away, burnt and ſpoyled <hi>Caermarden,</hi> and returned victoriouſ<g ref="char:EOLhyphen"/>ly to <hi>North-Wales,</hi> 1142. in the year, 1143. ſeven great Lords, all of them of Princely blood and pedigree, were ſlain in <hi>Wales;</hi> Alſo at this time
+<pb n="42" facs="tcp:169945:22"/>the <hi>Iriſh</hi> did much ſpoyle, and in coneluſion were ſpoyled by Prince <hi>Owen,</hi> and near this time, <hi>Howell</hi> and <hi>Conan, Owens</hi> Sons, gave the <hi>Nor<g ref="char:EOLhyphen"/>mans</hi> and <hi>Flemmings</hi> a bloudy diſcomfeture at <hi>Abertivye,</hi> and returned to their Father with ſpoyle and honour: Yet theſe Wars continued ſtill, but the <hi>Flemmings</hi> and <hi>Normans</hi> were beaten twice more at the Caſtles of <hi>Carmarden</hi> and <hi>Lhanſtephan,</hi> from the yeare of Chriſt, 1138. to 1160 being 32. years, <hi>Wales</hi> had not ſo much as ſix Moneths peace and quietneſs.</p>
+            <p>And then, before one yeare was expired the Princes of <hi>South-Wales</hi> quarrelled with Prince <hi>Owen,</hi> and after ſome dangerous bickerings <hi>Owen</hi> had the Victory. <hi>In Anno,</hi> 1163. <hi>Henry</hi> the Se<g ref="char:EOLhyphen"/>cond, King of <hi>England,</hi> made great preparations for War, hee entred <hi>South-Wales,</hi> as far as <hi>Breck<g ref="char:EOLhyphen"/>nok,</hi> and returnd without any cauſe of triumph<g ref="char:EOLhyphen"/>ing. And in the year, 1165. the ſaid King <hi>Henry</hi> the Second came in Perſon again, having in his Army the ſtouteſt of <hi>Engliſhmen, Normans, Gaſ<g ref="char:EOLhyphen"/>coigners, Flemmings, Guiencys,</hi> and ſome fugitive <hi>Welch;</hi> but Prince <hi>Owen</hi> joyned with <hi>South-Wales,</hi> and others, after much fighting, and loſſe on both ſides, King <hi>Henry</hi> returned without Con<g ref="char:EOLhyphen"/>queſt, and fewer men then he brought forth: Alſo the next year, 1167. the ſame King made a greater inrode into <hi>Wales,</hi> to as much purpoſe as he had, done twice before. Alſo, preſently, in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick of theſe troubles, another Army of
+<pb n="43" facs="tcp:169945:22"/>
+               <hi>Flemmings</hi> and <hi>Normans</hi> came to <hi>Weſt-Wales,</hi> did much harm, and in the end returned with much loſſe.</p>
+            <p>Then preſently, to make the miſery of <hi>Wales</hi> compleat, the <hi>Welſh</hi> Lords fell together by the ears one with another; and after a weary and troubleſome Raign of 32. yeares, the magnani<g ref="char:EOLhyphen"/>mous Prince <hi>Owen Guineth</hi> dyed, <hi>Anno,</hi> 1169.</p>
+            <p>His Son <hi>David</hi> ſucceeded the 22 Prince, who was fain to fight for it, and kill his Brother <hi>Ho<g ref="char:EOLhyphen"/>well,</hi> before he could attain the Princedom. Then did <hi>Henry</hi> the 2. King of <hi>England</hi> enter <hi>South-Wales,</hi> took the Town of <hi>Caerleon</hi> from the Lo. <hi>Jorworth,</hi> and quite deſtroyed it: and in 1172. after a te<g ref="char:EOLhyphen"/>dious moleſtation, Prince <hi>David ap Owen</hi> was ex<g ref="char:EOLhyphen"/>pulſt from his Rule: and,</p>
+            <p>
+               <hi>Lhewelyn ap Jorworth,</hi> being lawfull Prince, took the Government, 1194. <hi>Richard</hi> the firſt of that Name being then King of <hi>England.</hi> This Prince had a quiet beginning in <hi>North-Wales,</hi> but <hi>South-Wales</hi> was much vexed; for K. <hi>John</hi> of <hi>England,</hi> with <hi>David ap Owen,</hi> before named, who was de<g ref="char:EOLhyphen"/>poſed or expulſed, came with an Army againſt Prince <hi>Lhewelyn,</hi> who fought and beat K. <hi>John,</hi> and took <hi>David</hi> priſoner, and kept him faſt; and the ſame yeare there was another bloudy Battell fought, between the <hi>Engliſh</hi> and the Lords of <hi>South-Wales,</hi> and many men ſlain by the treachery of ſome Welſh Lords, for private intereſts.</p>
+            <p>In 12 yeares Prince <hi>Lhewelyn</hi> had not one
+<pb n="44" facs="tcp:169945:23"/>months quietneſs, yet he was ſtill victorious.</p>
+            <p>1211. K. <hi>John</hi> came into <hi>Wales</hi> with a mighty Army, with a purpoſe to deſtroy all that had life; but he returned with great loſs: and the next year he came again, when (by reaſon that the <hi>Engliſh</hi> King had many <hi>Welſh</hi> Lords to take his part) Prince <hi>Lhewelyn ap Jorworth</hi> came to an agreement with K. <hi>John,</hi> and gave him 20000 <abbr>l.</abbr> and 40 Horſes: But covenants not being kept by occaſion of the harſh dealing of the Engliſh Nobles, and their Officers, made to the Prince to raiſe an Army, and take ſome Caſtles and Coun<g ref="char:EOLhyphen"/>tries, for which K. <hi>John</hi> cauſed the Gentlemen (which he had for Pledges) to be all hang'd; and with another great Army he came into <hi>Wales</hi> a<g ref="char:EOLhyphen"/>gain, to no purpoſe; for K. <hi>John</hi> had his hands and head full of troubles at home, with the Pope and the <hi>French,</hi> that he was forced to leave <hi>Wales,</hi> and return, to his great grief and loſs.</p>
+            <p>In the yeare of Grace 1214. there was great wars between the Lords of <hi>South-Wales</hi> and <hi>Powis, Welſh</hi> againſt <hi>Welſh,</hi> and much miſchiefe done on both ſides: And <hi>Anno</hi> 1215. Prince <hi>Lhewelyn</hi> made an Inrode into <hi>England;</hi> then hee wonne <hi>Shrewshury,</hi> ſack'd it, and returned into <hi>South-Wales,</hi> he took <hi>Caermarden</hi> from the <hi>English,</hi> raiſed the Caſtle, and took 12 Caſtles more, and returned home triumphant: ſhortly after he ſubdued all <hi>Powis Land</hi> to his obedience, and in <hi>Anno</hi> 1217. he brought all <hi>Wales</hi> to his ſubjection. He had
+<pb n="45" facs="tcp:169945:23"/>not a weekes reſt from the yeare 1218. to 1221. but either <hi>Welsh, English, Flemmings,</hi> or other troubles kept him from idleneſs, and ſtill it was his happineſs to be Victor.</p>
+            <p>King <hi>John</hi> of <hi>England,</hi> being reconciled to the Pope, the French expulſt from thence, and the Kingdome in quiet, the King (having little to do at home) would have the tother bout with <hi>Wales,</hi> which he attempted with much Charge, and bad ſucceſs, and ſhortly after died; to whom his ſon <hi>Henry</hi> the 3. ſucceeded, who made a ſpeedy expedition againſt <hi>Lhewelyn,</hi> and returned home with much detriment, &amp; peace was made for a ſmal time; for in <hi>Anno</hi> 1231. K. <hi>Henry</hi> made another great preparation againſt the Prince, to the effect aforeſaid.</p>
+            <p>In 1232. <hi>Lhewelyn</hi> made an expedition into <hi>England,</hi> and returned with much Riches and Honour. In 1233. <hi>South-Wales</hi> raiſed new wars; but the Prince went in perſon and beat them in<g ref="char:EOLhyphen"/>to ſome quietneſs, overthrew their Caſtles and ſtrong holds, and returned renowned.</p>
+            <p>And the ſame yeare K. <hi>Henry</hi> the 3. came in<g ref="char:EOLhyphen"/>to <hi>Wales,</hi> with a greater Army then ever, com<g ref="char:EOLhyphen"/>pact of divers Nations, with an intent to deſtroy all he could, but was deceived in his purpoſe, and went home a loſer: Then K. <hi>Henry</hi> ſent the Arch Biſhop of <hi>Canterbury,</hi> with the Biſhops of <hi>Rocheſter</hi> and <hi>Cheſter</hi> to make a peace with <hi>Lhew<g ref="char:EOLhyphen"/>elyn,</hi> but it could not be effected.</p>
+            <pb n="46" facs="tcp:169945:24"/>
+            <p>Then this peerleſs Prince died, beloved, and lamented, and was buried at <hi>Conwy.</hi> He married <hi>Jone</hi> the daughter of K. <hi>John,</hi> by whom he had two ſons <hi>David</hi> and <hi>Griffith;</hi> this <hi>David</hi> kept his brother <hi>Griffith</hi> in priſon all his raigne. The Noble Prince <hi>Lhewelyn ap Jorworth,</hi> raigned 56 years.</p>
+            <p>To whom <hi>David ap Lhewelyn</hi> ſucceeded, being the 24. Prince, <hi>Anno</hi> 1240. This Prince was curſed by the Pope, and hated by the people for impriſoning his Brother <hi>Griffith;</hi> for which the K. of <hi>England</hi> came againſt him with an Army, but a peace was made, and <hi>Griffith</hi> not releas'd, who ſtriving to break priſon and eſcape, by tying of Lines and Sheets, with ſuch other ſtuff which he had, and as he gat out of a high window, he putting all his weight to the Lines, they brake, and he being fat and heavy, fell with his head downwards, where he lay a moſt pittifull dead ſpectacle, for his head and neck were beaten for<g ref="char:EOLhyphen"/>cibly into his body.</p>
+            <p>Then K. <hi>Henry</hi> the 3. (as his Predeceſſors had often done) ſtrived to have <hi>Wales</hi> under his obe<g ref="char:EOLhyphen"/>dience, to which purpoſe he in 1245. raiſed a mighty Army, and was more mightily met and foyled by Prince <hi>David;</hi> ſoone after <hi>David</hi> died, when he had Ruled 5 years, 1246.</p>
+            <p>
+               <hi>Lhewelyn ap Griffith,</hi> or the Son of <hi>Griffith</hi> that dyed with a fall, was the 25 Prince, for his Un<g ref="char:EOLhyphen"/>kle, Prince <hi>David</hi> had no Iſſue, this man was va<g ref="char:EOLhyphen"/>liant,
+<pb n="47" facs="tcp:169945:24"/>but unfortunate, for his two Brethren, <hi>O<g ref="char:EOLhyphen"/>wen</hi> and <hi>David,</hi> made War upon him, but he vanquiſht them, and was Maſter of all <hi>Wales:</hi> he ſtrived much to ſhake off the yoke of <hi>England,</hi> and perforce hee chaſed all the <hi>Engliſh</hi> out of <hi>Wales,</hi> with great ſlaughter, 1256. King <hi>Henry</hi> the Third, with two great Armies entred <hi>Wales</hi> in ſeverall places, did much ſpoile, received much loſs, and returned angry.</p>
+            <p>In 1258. <hi>James</hi> Lord <hi>Audley</hi> with <hi>Germane</hi> Horſemen, did much ſpoile, and killed many in <hi>Wales,</hi> but in the end, the Welſhmen gave them ſuch welcome, that few of the <hi>Germanes</hi> return'd. In theſe times in all places in <hi>VVales</hi> was conti<g ref="char:EOLhyphen"/>nuall ſtrife, ſpoile, and bloudſhed; for <hi>the</hi> En<g ref="char:EOLhyphen"/>gliſh <hi>would Have; and the</hi> Welſh <hi>would Hold:</hi> In 1267. <hi>Lhewelyn</hi> entred <hi>England,</hi> ſpoyled and de<g ref="char:EOLhyphen"/>ſtroyed <hi>Cheſter,</hi> and much of that County; but after that, the Welſh had a great overthrow at a place called <hi>Clun,</hi> and in 1268. <hi>Henry</hi> of <hi>England</hi> with an Army entred <hi>VVales</hi> again; but by the means of Cardinall <hi>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tobonus</hi> (the Popes Legate) a Peace was made, and the Prince paid to the K. of <hi>England</hi> 30000 Marks. In <hi>Anno</hi> 1272. King <hi>Henry</hi> the 3. died, and his ſon <hi>Edward</hi> the 1. went to <hi>Cheſter,</hi> from whence he ſent a Summons to command Prince <hi>Lhewelyn</hi> to come to him and doe homage: But the Prince refuſed, and would not come to the King. Then two Engliſh Armies entred <hi>South-Wales,</hi> and <hi>North-Wales,</hi> and <hi>Weſt-Wales,</hi>
+               <pb n="48" facs="tcp:169945:25"/>at once; but (upon hard conditions) a Peace was concluded, which laſted not long; for <hi>Anno</hi> 1281. they fell to it cruelly again: The Prince ſaid, that <hi>it was a bard thing to live in War alwayes; but it was harder to live in continuall ſlave<g ref="char:EOLhyphen"/>ry:</hi> ſoon after, Prince <hi>Lhewelyn</hi> was ſlaine, va<g ref="char:EOLhyphen"/>liantly fighting, and all <hi>Wales</hi> fell to the Crowne of <hi>England,</hi> after it had continued from <hi>Brute</hi> and <hi>Camber</hi> 2418 years, to the year of <hi>Chriſt</hi> 1282.</p>
+         </div>
+      </body>
+      <back>
+         <div type="list">
+            <head>Kings ſons and Daughters of <hi>England,</hi> that haue been Princes of <hi>VVALES</hi> ſince <hi>1282.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>1</hi> EDward <hi>of</hi> Carnarvon, <hi>ſon to K.</hi> Ed. <hi>1. 1289.</hi>
+               </item>
+               <item>
+                  <hi>2</hi> Edward <hi>of</hi> VVinſor, <hi>ſon to</hi> Edw. <hi>2.</hi>
+               </item>
+               <item>
+                  <hi>3</hi> Edw. <hi>of</hi> VVoodſtock, <hi>ſon to</hi> Edw. <hi>3. or the Black Prince.</hi>
+               </item>
+               <item>
+                  <hi>4</hi> Richard <hi>of</hi> Burdeaux, <hi>ſon to the Black.</hi>
+               </item>
+               <item>
+                  <hi>5</hi> Henry <hi>of</hi> Monmouth, <hi>ſon to</hi> Henry <hi>4.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> Edw. <hi>of</hi> VVeſlm. <hi>ſon to</hi> Henry <hi>6.</hi>
+               </item>
+               <item>
+                  <hi>7</hi> Edw.<hi>of</hi> VVeſlm. <hi>ſon to</hi> Edw. <hi>4.</hi>
+               </item>
+               <item>
+                  <hi>8</hi> Edw. <hi>ſon to K.</hi> Ric. <hi>3. at 10 year old inſtal'd P.</hi>
+               </item>
+               <item>
+                  <hi>9</hi> Arthur, <hi>ſon to K.</hi> Henry <hi>7.</hi>
+               </item>
+               <item>
+                  <hi>10</hi> Henry <hi>D. of</hi> York, <hi>2. ſon to</hi> H. <hi>7.</hi> E. <hi>6. ſon to</hi> H. <hi>8.</hi>
+               </item>
+               <item>
+                  <hi>11</hi> Mary, <hi>Princeſs of</hi> VVales, Daughter, &amp;c.</item>
+               <item>
+                  <hi>12</hi> Eliz. <hi>Princeſs.</hi>
+               </item>
+               <item>
+                  <hi>13</hi> Henry.</item>
+               <item>
+                  <hi>14</hi> Charls, <hi>ſons to King</hi> James.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
